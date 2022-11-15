@@ -1,0 +1,156 @@
+    .log{
+        color: #596D48;
+        display: inline-block;
+        font-size: 20px;
+    
+    }
+    
+    button{
+        background-color: #596D48;
+        align-items: center;
+        padding: 6px;
+        border: 5px;
+        border-radius: 4px;
+        height: 40px;
+        width: 20%;
+        color: white;
+        text-decoration: solid;
+    cursor: zoom-in;
+        font-size: large;
+    
+    }
+    @media (min-width: 320px){
+        button{
+            background-color: #596D48;
+            align-items: center;
+            padding: 6px;
+            border: 5px;
+            border-radius: 4px;
+            height: 40px;
+            width: 20%;
+            color: white;
+            text-decoration: solid;
+        cursor: zoom-in;
+            font-size: large;
+        }
+    }
+    
+    
+    .acct{
+        display: inline-block;
+    margin-left: 4px;
+    font-size: 20px;
+    }
+    body{
+        margin: 0;
+        padding: 0;
+    
+    }
+    .l1{
+        display: flex;
+        
+    }
+    .l2{
+        padding-bottom: 20px;
+        margin: 12px;
+    }
+    footer{
+        margin-top: 20px;
+    padding-top: 20px;
+    }
+    .text{
+        margin: 0 12px;
+        cursor: zoom-in;
+    
+    }
+    .text1, .text2, .text3, .text4, .text5, .text6 {
+        height: 20px;
+        border: 4px outset inset;
+        border-radius: 4px;
+        cursor: zoom-in;
+    }
+@media (min-width: 320px){
+    .text1, .text2, .text3, .text4, .text5, .text6{
+        height: 20px;
+    }
+}
+    
+    .main{
+        margin-bottom: 10px;
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        gap: 20px;
+    
+    }
+
+@media (min-width: 320px){
+        .main{
+            width: 100%;
+        }
+}
+    .form-main{
+        width: 70%;
+        cursor: zoom-in;
+    }
+
+@media (min-width: 320px){
+    .form-main{
+        width: 70%;
+    }
+}
+    
+    .logo{
+        background-color: rgba(0, 0, 0, 0.308);
+        display: flex;
+        height: 15%;
+        width: 100%;
+        position: absolute;
+        top: 200px;
+        left: 0;
+    }
+
+@media (min-width: 320px){
+    .logo{
+        display: flex;
+        position: absolute;
+    }
+}
+    
+    .plain{
+        width: 30%;
+        height: 100%;
+        position: relative;
+        
+    }
+
+@media (min-width: 320px){
+    .plain{
+        width: 30%;
+
+    }
+}
+     .logo > .odin{
+        margin-left: 200px;
+        height: 100px;
+        padding-top: 20px;
+    }
+    p.strong{
+        font-size: 2rem;
+    }
+    .design-img{
+        height: 100vh;
+        width: 100%;
+        position: relative;
+    }
+    
+    .odin{
+        width: 15%;
+        height: 100px;
+    }
+    .logo > .odin-font{
+    text-decoration-color: aliceblue;    
+    margin-top: 40px;
+        height: 250px;
+    }
+    
